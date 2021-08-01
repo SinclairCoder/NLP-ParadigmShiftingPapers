@@ -115,6 +115,11 @@ Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li
 - **Cross-Domain Slot Filling as Machine Reading Comprehension.**  IJCAI 2021
 
 
+
+
+​
+
+
 ## 2. Generation-Paradigm
 
 ### NER
@@ -212,6 +217,6 @@ Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li
 
 ## 6. Text Matching-Paradigm
 
-- **Extractive Summarization as Text Matching** ACL 2020 [[paper]](Extractive Summarization as Text Matching) [[code]](https://github.com/maszhongming/MatchSum) 
+- **Extractive Summarization as Text Matching**. ACL 2020 [[paper]](https://aclanthology.org/2020.acl-main.552/) [[code]](https://github.com/maszhongming/MatchSum) 
   Ming Zhong, Pengfei Liu, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huang
 
