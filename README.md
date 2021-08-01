@@ -21,7 +21,7 @@ Reading List of Paradigm Shifting related papers in NLP
   Chenlin Shen, Changlong Sun, Jingjing Wang, Yangyang Kang, Shoushan Li, Xiaozhong Liu, Luo Si, Min Zhang, and Guodong Zhou.
 
 
-### Aspect-Based Sentiment Analysis Task
+### Aspect-Based Sentiment Analysis 
 
 - **Question-Driven Span Labeling Model for Aspect–Opinion Pair Extraction**.  AAAI 2021 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17523)
   Lei Gao, Yulong Wang, Tongcun Liu, Jingyu Wang, Lei Zhang, Jianxin Liao
@@ -46,7 +46,7 @@ Reading List of Paradigm Shifting related papers in NLP
   Yichun Yin, Yangqiu Song, Ming Zhang
 
 
-### Entity-Relation Extraction Task
+### Entity-Relation Extraction  
 
 - **Consistent Inference for Dialogue Relation Extraction.** IJCAI 2021
 
@@ -73,19 +73,19 @@ Fayuan Li, Weihua Peng, Yuguang Chen, Quan Wang, Lu Pan, Yajuan Lyu, Yong Zhu
 - **Event Extraction as Machine Reading Comprehension.** EMNLP 2020.  [[paper]](https://aclanthology.org/2020.emnlp-main.128/) [[code]](https://github.com/jianliu-ml/EEasMRC)
   Jian Liu ,Yubo Chen, Kang Liu, Wei Bi, Xiaojiang Liu
 
-### NER Task
+### NER 
 
 - **A Unified MRC Framework for Named Entity Recognition**. 2020 ACL. [[paper]](https://aclanthology.org/2020.acl-main.519/) [[code]](https://github.com/ShannonAI/mrc-for-flat-nested-ner) [[new code]](https://github.com/wanglaiqi/mrc-for-flat-nested-ner)
 Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li
 
-### Summarization Task
+### Summarization 
 
 - **Improving Factual Consistency of Abstractive Summarization via Question Answering.** ACL 2021 [[paper]](https://aclanthology.org/2021.acl-long.536/)
   Feng Nan, Cicero Nogueira dos Santos, Henghui Zhu, Patrick Ng, Kathleen McKeown, Ramesh Nallapati, Dejiao Zhang, Zhiguo Wang, Andrew O. Arnold, Bing Xiang
 - **QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization.** NAACL 2021 [[paper]](https://aclanthology.org/2021.naacl-main.472/) [[code]](https://github.com/Yale-LILY/QMSum)
   Ming Zhong, Da Yin, Tao Yu, Ahmad Zaidi, Mutethia Mutuma, Rahul Jha, Ahmed Hassan Awadallah, Asli Celikyilmaz, Yang Liu, Xipeng Qiu, Dragomir Radev
 
-### Coreference Resolution Task
+### Coreference Resolution 
 
 - **Coreference Reasoning in Machine Reading Comprehension** ACL 2021 [[paper]](https://aclanthology.org/2021.acl-long.448/) [[code]](https://github.com/UKPLab/coref-reasoning-in-qa) 
   Mingzhu Wu, Nafise Sadat Moosavi, Dan Roth, Iryna Gurevych  
@@ -100,12 +100,12 @@ Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li
   Yufang Hou  
 
 
-### SQL Generation Task
+### SQL Generation 
 
 - **SQL Generation via Machine Reading Comprehension**. COLING 2020. [[paper]](https://aclanthology.org/2020.coling-main.31/)[[code]](https://github.com/nl2sql/QA-SQL)
   Zeyu Yan, Jianqiang Ma, Yang Zhang, Jianping Shen
 
-### Entity Linking Task
+### Entity Linking 
 
 - **Read, Retrospect, Select: An MRC Framework to Short Text Entity Linking** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17528) 2021 AAAI
   Yingjie Gu, Xiaoye Qu,  Zhefeng Wang,  Baoxing Huai, Nicholas Jing Yuan,  Xiaolin Gui
@@ -184,6 +184,10 @@ Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li
   Yan Zhou, Longtao Huang, Tao Guo, Jizhong Han, Songlin Hu
 
 
+
+​
+
+
 ## 4. Dependency Parsing-Paradigm
 
 - **Structured Sentiment Analysis as Dependency Graph Parsing.** ACL 2021 [[paper]](https://aclanthology.org/2021.acl-long.263/) [[code]](https://github.com/jerbarnes/sentiment_graphs)
@@ -192,11 +196,19 @@ Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li
 - **Named Entity Recognition as Dependency Parsing.** ACL 2020 [[paper]](https://aclanthology.org/2020.acl-main.577/)
   Juntao Yu, Bernd Bohnet, Massimo Poesio
  
+
+
+​
+
 ## 5. Semantic Segmentation-Paradigm
 
 - **Document-level Relation Extraction as Semantic Segmentation.** IJCAI 2021 [[arxiv]](https://arxiv.org/abs/2106.03618) [[code]](https://github.com/zjunlp/DocuNet)  [[blog]](https://mp.weixin.qq.com/s?__biz=MzI2ODM5OTEyMA==&mid=2247484958&idx=1&sn=df8c30d5ac441d6946a9e1873489899f&chksm=eaf16161dd86e8771dde37a15d2bad870fb729afe69f286fbbb7b93307f7a044a4b2d3f9b0a2&mpshare=1&scene=23&srcid=0623in4pz4nHvQqVLXQIqqHw&sharer_sharetime=1624457166808&sharer_shareid=e3fac610a51f80cbddf092286e1a80a1#rd) 
   Ningyu Zhang, Xiang Chen, Xin Xie, Shumin Deng, Chuanqi Tan, Mosha Chen, Fei Huang, Luo Si, Huajun Chen
 
+
+
+
+​
 
 ## 6. Text Matching-Paradigm
 
