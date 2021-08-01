@@ -127,7 +127,7 @@ Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li
 
 ### Aspect-Based Sentiment Analysis
 
-- **Towards Generative Aspect-Based Sentiment Analysis.** ACL 2021 [[paper]](https://aclanthology.org/2021.acl-short.64/) [[code]](https://github.com/IsakZhang/Generative-ABSA
+- **Towards Generative Aspect-Based Sentiment Analysis.** ACL 2021 [[paper]](https://aclanthology.org/2021.acl-short.64/) [[code]](https://github.com/IsakZhang/Generative-ABSA)
   Wenxuan Zhang, Xin Li, Yang Deng, Lidong Bing, Wai Lam
 
 - **A Unified Generative Framework for Aspect-based Sentiment Analysis.** ACL 2021 [[paper]](https://aclanthology.org/2021.acl-long.188/) [[code]](https://github.com/yhcc/BARTABSA)
