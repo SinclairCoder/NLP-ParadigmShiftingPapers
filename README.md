@@ -114,6 +114,13 @@ Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li
 
 - **Cross-Domain Slot Filling as Machine Reading Comprehension.**  IJCAI 2021
 
+### Semantic Role Labeling
+- **Crowdsourcing Question-Answer Meaning Representations**. NAACL 2018 [[paper]](https://aclanthology.org/N18-2089/) [[code]](https://github.com/uwnlp/qamr)
+  Julian Michael, Gabriel Stanovsky, Luheng He, Ido Dagan, Luke Zettlemoyer
+
+- **Question-Answer Driven Semantic Role Labeling: Using Natural Language to Annotate Natural Language**. EMNLP 2015 [[paper]](https://aclanthology.org/D15-1076)
+  Luheng He, Mike Lewis, Luke Zettlemoyer
+
 
 
 
