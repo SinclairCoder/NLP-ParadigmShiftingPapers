@@ -145,11 +145,6 @@ Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu, Jiwei Li
 - **A Unified Generative Framework for Aspect-based Sentiment Analysis.** ACL 2021 [[paper]](https://aclanthology.org/2021.acl-long.188/) [[code]](https://github.com/yhcc/BARTABSA)
   Hang Yan, Junqi Dai, Tuo Ji, Xipeng Qiu, Zheng Zhang
 
-- **Don’t Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction**. ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.339.pdf) [[code]](https://www.aclweb.org/anthology/attachments/2020.acl-main.339.Software.zip)
-  Zhenkai Wei, Yu Hong, Bowei Zou, Meng Cheng, Jianmin YAO. 
-
-- **Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation**. ACL 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.631.pdf)
-  Kun Li, Chengbo Chen, Xiaojun Quan, Qing Ling, Yan Song.
 
 ### Event Extraction
 
